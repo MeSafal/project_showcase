@@ -1,4 +1,4 @@
-CMS-FMS (Content Management System)
+CMS (Content Management System)
 ==============================================================
 
 A comprehensive CMS built with Laravel featuring advanced CRUD generation, granular permissions, and intuitive content management.
