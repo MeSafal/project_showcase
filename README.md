@@ -85,7 +85,7 @@ php artisan setup:master
 - Node.js 18+
 
 ```bash
-git clone https://github.com/MeSafal/cms-fms.git
+git clone https://github.com/MeSafal/laravel_cms.git
 cd cms-fms
 composer install --no-dev
 cp .env.example .env
