@@ -37,11 +37,14 @@ Feel free to explore and take inspiration.
 
 ---
 
-## 📬 Contact
+## 📬 Contact Me
 
-Have questions or suggestions?  
-Reach out via [GitHub Issues](https://github.com/your-username/project-showcase/issues) or connect on [LinkedIn](https://linkedin.com/in/your-profile).
+If you enjoyed any of my projects, want to collaborate, or just have something cool to discuss —  
+feel free to reach out!
 
----
+📧 **subedigokul119@gmail.com**
+
+I'm always open to creative ideas, feedback, and good conversations. Let’s connect!
+
 
 > Happy coding! ✨
