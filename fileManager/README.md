@@ -61,41 +61,33 @@ A modern, responsive file management system built with Laravel and JavaScript. T
     7. Customization
     8. License
 
-    --------------------------------------------------------------
-    Key Features ✨
-    --------------------------------------------------------------
-    Core Functionality:
-    - 🌓 Dark/Light Mode - Switchable color schemes for user preference  
-    ![Dark Mode](images/dark-mode.png) | ![Light Mode](images/light-mode.png)
-    - 🗂️ Column Navigation - Windows Explorer-style multi-column browsing  
-    ![Column Navigation](images/column-navigation-dark.png) | ![Column Navigation](images/column-navigation-light.png)
-    - 🖼️ Masonry Grid - Dynamic image previews with masonry layout  
-    ![Masonry Grid](images/masonry-grid-dark.png) | ![Masonry Grid](images/masonry-grid-light.png)
-    - 🚀 CMS Integration - Ready for content management systems  
-    ![CMS Integration](images/cms-integration-dark.png) | ![CMS Integration](images/cms-integration-light.png)
-    - 📱 Responsive Design - Fully functional on all devices  
-    ![Responsive Design](images/responsive-design-dark.png) | ![Responsive Design](images/responsive-design-light.png)
+--------------------------------------------------------------
+Key Features ✨
+--------------------------------------------------------------
 
-    --------------------------------------------------------------
-    File Operations 📁
-    --------------------------------------------------------------
+Core Functionality:
+- 🌓 Dark/Light Mode - Switchable color schemes for user preference  
+  ![Dark Mode](images/dark-mode.png) | ![Light Mode](images/light-mode.png)
 
-    | Feature              | Description                                           | Light Mode Preview                            | Dark Mode Preview                             |
-    |----------------------|-------------------------------------------------------|-----------------------------------------------|------------------------------------------------|
-    | Folder Management    | Create/rename/delete folders with context menus       | ![Folder Light](images/folder.png)            | ![Folder Dark](images/folder-dark.png)         |
-    | Drag-n-Drop Upload   | Upload single/multiple files via drag-and-drop        | ![Upload Light](images/drag-drop-upload-light.png) | ![Upload Dark](images/drag-drop.png)        |
-    | Inline Renaming      | Click-to-edit filenames with instant updates          | ![Rename Light](images/inline.png)            | ![Rename Dark](images/inline-dark.png)         |
-    | Visual Feedback      | Color-coded status indicators for all operations      | ![Feedback Light](images/visual-feedback-light.png) | ![Feedback Dark](images/visual-feedback-dark.png) |
+- 🗂️ Column Navigation - Windows Explorer-style multi-column browsing  
+  ![Column Navigation](images/column-navigation-dark.png)
 
+- 🖼️ Masonry Grid - Dynamic image previews with masonry layout  
+  ![Masonry Grid](images/masonry-grid-dark.png)
 
-    --------------------------------------------------------------
-    Interface Capabilities 🖥️
-    --------------------------------------------------------------
-    Feature               | Description                                            | Image
-    ----------------------|--------------------------------------------------------|---------------------------------------------------------
-    Column View           | Hierarchical browsing with resizable columns           | ![Column View](images/column-view-dark.png) | ![Column View](images/column-view-light.png)
-    Preview Pane          | Instant previews for images and documents              | ![Preview Pane](images/preview-pane-dark.png) | ![Preview Pane](images/preview-pane-light.png)
-    BreadCrumb            | Quickly navigate up in the folder                      | ![BreadCrumb](images/breadcrumb-dark.png) | ![BreadCrumb](images/breadcrumb-light.png)
+- 📱 Responsive Design - Fully functional on all devices  
+  ![Responsive Design](images/responsive-design.png)
+
+--------------------------------------------------------------
+File Operations 📁
+--------------------------------------------------------------
+
+| Feature              | Description                                           | Preview (Dark Mode)                            |
+|----------------------|-------------------------------------------------------|------------------------------------------------|
+| Folder Management    | Create/rename/delete folders with context menus       | ![Folder Dark](images/folder-dark.png)         |
+| Drag-n-Drop Upload   | Upload single/multiple files via drag-and-drop        | ![Upload Dark](images/drag-drop.png)           |
+| Inline Renaming      | Click-to-edit filenames with instant updates          | ![Rename Dark](images/inline-dark.png)         |
+| Visual Feedback      | Color-coded status indicators for all operations      | ![Feedback Dark](images/visual-feedback.png) |
 
 
 ## Installation
