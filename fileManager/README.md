@@ -79,12 +79,14 @@ A modern, responsive file management system built with Laravel and JavaScript. T
     --------------------------------------------------------------
     File Operations 📁
     --------------------------------------------------------------
-    Feature               | Description                                            | Image
-    ----------------------|--------------------------------------------------------|---------------------------------------------------------
-    Folder Management     | Create/rename/delete folders with context menus        | ![Folder Management](images/folder.png) | ![Folder Management](images/folder-dark.png)
-    Drag-n-Drop Upload    | Supports both single and multiple file uploads         | ![Drag-n-Drop Upload](images/drag-drop.png) | ![Drag-n-Drop Upload](images/drag-drop-upload-light.png)
-    Inline Renaming       | Click-to-edit filenames with instant updates           | ![Inline Renaming](images/inline.png) | ![Inline Renaming](images/inline-dark.png)
-    Visual Feedback       | Color-coded status indicators for all operations       | ![Visual Feedback](images/visual-feedback-dark.png) | ![Visual Feedback](images/visual-feedback-light.png)
+
+    | Feature              | Description                                           | Light Mode Preview                            | Dark Mode Preview                             |
+    |----------------------|-------------------------------------------------------|-----------------------------------------------|------------------------------------------------|
+    | Folder Management    | Create/rename/delete folders with context menus       | ![Folder Light](images/folder.png)            | ![Folder Dark](images/folder-dark.png)         |
+    | Drag-n-Drop Upload   | Upload single/multiple files via drag-and-drop        | ![Upload Light](images/drag-drop-upload-light.png) | ![Upload Dark](images/drag-drop.png)        |
+    | Inline Renaming      | Click-to-edit filenames with instant updates          | ![Rename Light](images/inline.png)            | ![Rename Dark](images/inline-dark.png)         |
+    | Visual Feedback      | Color-coded status indicators for all operations      | ![Feedback Light](images/visual-feedback-light.png) | ![Feedback Dark](images/visual-feedback-dark.png) |
+
 
     --------------------------------------------------------------
     Interface Capabilities 🖥️
