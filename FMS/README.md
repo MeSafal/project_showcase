@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# FMS (File Management System)
+# FMS (FileJ Management System)
 
 A modern, responsive file management system built with Laravel and JavaScript. This file manager provides an intuitive interface for managing files and folders with a multi-column browsing experience, similar to Finder on macOS or Explorer on Windows.
 
