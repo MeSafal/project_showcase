@@ -60,12 +60,12 @@ A comprehensive CMS built with Laravel featuring advanced CRUD generation, granu
 
 
 ### CRUD Operations
-```bash
+```php
 # Generate complete CRUD for blogs
 php artisan crud:generate blogs
 ```
 
-```bash
+```php
 # Remove blogs CRUD components
 php artisan crud:delete blogs
 ```
@@ -87,10 +87,10 @@ php artisan setup:master
 - Composer 2.5+
 - Node.js 18+
 
-```bash
+```php
 git clone https://github.com/MeSafal/project_showcase.git
-cd cms-fms
-composer install --no-dev
+cd project_showcase
+composer install
 cp .env.example .env
 php artisan key:generate
 php artisan migrate
