@@ -69,6 +69,9 @@ php artisan crud:generate blogs
 # Remove blogs CRUD components
 php artisan crud:delete blogs
 ```
+A example crud operation output.
+![Crud Operation](./images/crud.png)
+
 
 ### Initial Setup
 ```bash
