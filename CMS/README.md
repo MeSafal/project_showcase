@@ -70,7 +70,7 @@ php artisan crud:generate blogs
 php artisan crud:delete blogs
 ```
 A example crud operation output.
-![Crud Operation](./images/crud.png)
+![Crud Operation](./images/crud-operation.png)
 
 
 ### Initial Setup
