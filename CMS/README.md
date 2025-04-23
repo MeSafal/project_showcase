@@ -19,7 +19,10 @@
 
 A comprehensive CMS built with Laravel featuring advanced CRUD generation, granular permissions, and intuitive content management.
 
-![Dashboard Preview](./images/dashboard_overview.png)
+![Dashboard Preview](./images/dashboard_dark.png)
+
+Light and Dark Mode support
+![Dashboard Preview](./images/dashboard_light.png)
 
 ## Table of Contents
 - [Features](#features-)
