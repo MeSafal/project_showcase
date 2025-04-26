@@ -22,6 +22,7 @@ A comprehensive CMS built with Laravel featuring advanced CRUD generation, granu
 ![Dashboard Preview Dark Mode](./images/dashboard_dark.png)
 
 Light and Dark Mode support
+
 ![Dashboard Preview Light Mode](./images/dashboard_light.png)
 
 ## Table of Contents
