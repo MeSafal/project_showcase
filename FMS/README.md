@@ -187,3 +187,6 @@ Below is a list of files you can override or modify to tailor the file manager m
 
 > 💡 **Tip:** All files are part of a self-contained module. You can plug this into any Laravel app and start customizing instantly without affecting your main application.
 
+
+> Happy Coding 🙂🙂🙂  
+> Contact me if you have any queries.

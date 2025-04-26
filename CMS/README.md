@@ -99,3 +99,5 @@ php artisan key:generate
 php artisan migrate
 php artisan serve
 ```
+> Happy Coding 🙂🙂🙂  
+> Contact me if you have any queries.

@@ -47,4 +47,5 @@ feel free to reach out!
 I'm always open to creative ideas, feedback, and good conversations. Let’s connect!
 
 
-> Happy coding! ✨
+> Happy Coding 🙂🙂🙂  
+> Contact me if you have any queries.
