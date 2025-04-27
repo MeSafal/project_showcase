@@ -128,10 +128,12 @@ This will generate
 Route::prefix('admin/articles')->name('articles.')->group(function () {
     Route::get('/', [ArticlesController::class, 'index'])->name('index');
     Route::get('/create', [ArticlesController::class, 'form'])->name('create');
-    Route::post('/store', [ArticlesController::class, 'save'])->name('store');
     Route::get('/edit/{id}', [ArticlesController::class, 'form'])->name('edit');
-    Route::post('/update/{id}', [ArticlesController::class, 'save'])->name('update');
     Route::get('/view/{id}', [ArticlesController::class, 'view'])->name('view');
+});
+Route::prefix('articles')->name('articles.')->group(function () {
+    Route::post('/store', [ArticlesController::class, 'save'])->name('store');
+    Route::post('/update/{id}', [ArticlesController::class, 'save'])->name('update');
     Route::post('/delete/{id}', [ArticlesController::class, 'delete'])->name('delete');
     Route::post('/alias/{id}', [ArticlesController::class, 'alias'])->name('alias');
     Route::post('/publish/{id}/{publish}', [ArticlesController::class, 'publish'])->name('publish');
@@ -222,14 +224,6 @@ Your controller should implement these methods to match the default routes:
 3. **Controller Methods:**
    - CRUD operations use consistent method names
    - Custom actions can be added as needed 
-
-
-### Note for adminResource
-
-The custom routes will create the route with the same name as provided in the second argument.
-
-- Example: **Index 1**  
-  The controller method name and the route target the same method in the controller for simplicity.
 
 > Happy Coding 🙂🙂🙂  
 > Contact me if you have any queries.
