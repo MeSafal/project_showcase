@@ -125,20 +125,16 @@ Route::adminResource('articles', ArticlesController::class);
 ```
 This will generate
 ```php
-Route::prefix('admin/articles')->name('articles.')->group(function () {
-    Route::get('/', [ArticlesController::class, 'index'])->name('index');
-    Route::get('/create', [ArticlesController::class, 'form'])->name('create');
-    Route::get('/edit/{id}', [ArticlesController::class, 'form'])->name('edit');
-    Route::get('/view/{id}', [ArticlesController::class, 'view'])->name('view');
-});
-Route::prefix('articles')->name('articles.')->group(function () {
-    Route::post('/store', [ArticlesController::class, 'save'])->name('store');
-    Route::post('/update/{id}', [ArticlesController::class, 'save'])->name('update');
-    Route::post('/delete/{id}', [ArticlesController::class, 'delete'])->name('delete');
-    Route::post('/alias/{id}', [ArticlesController::class, 'alias'])->name('alias');
-    Route::post('/publish/{id}/{publish}', [ArticlesController::class, 'publish'])->name('publish');
-    Route::post('/updateOrder', [ArticlesController::class, 'updateOrder'])->name('updateOrder');
-});
+Route::get('admin/articles', [ArticlesController::class, 'index'])->name('articles.index');
+Route::get('admin/articles/create', [ArticlesController::class, 'form'])->name('articles.create');
+Route::get('admin/articles/edit/{id}', [ArticlesController::class, 'form'])->name('articles.edit');
+Route::get('admin/articles/view/{id}', [ArticlesController::class, 'view'])->name('articles.view');
+Route::post('articles/store', [ArticlesController::class, 'save'])->name('articles.store');
+Route::post('articles/update/{id}', [ArticlesController::class, 'save'])->name('articles.update');
+Route::post('articles/delete/{id}', [ArticlesController::class, 'delete'])->name('articles.delete');
+Route::post('articles/alias/{id}', [ArticlesController::class, 'alias'])->name('articles.alias');
+Route::post('articles/publish/{id}/{publish}', [ArticlesController::class, 'publish'])->name('articles.publish');
+Route::post('articles/updateOrder', [ArticlesController::class, 'updateOrder'])->name('articles.updateOrder');
 ```
 
 ### With Custom Routes
