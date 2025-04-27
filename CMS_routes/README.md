@@ -123,6 +123,21 @@ For each route:
 ```php
 Route::adminResource('articles', ArticlesController::class);
 ```
+This will generate
+```php
+Route::prefix('admin/articles')->name('articles.')->group(function () {
+    Route::get('/', [ArticlesController::class, 'index'])->name('index');
+    Route::get('/create', [ArticlesController::class, 'form'])->name('create');
+    Route::post('/store', [ArticlesController::class, 'save'])->name('store');
+    Route::get('/edit/{id}', [ArticlesController::class, 'form'])->name('edit');
+    Route::post('/update/{id}', [ArticlesController::class, 'save'])->name('update');
+    Route::get('/view/{id}', [ArticlesController::class, 'view'])->name('view');
+    Route::post('/delete/{id}', [ArticlesController::class, 'delete'])->name('delete');
+    Route::post('/alias/{id}', [ArticlesController::class, 'alias'])->name('alias');
+    Route::post('/publish/{id}/{publish}', [ArticlesController::class, 'publish'])->name('publish');
+    Route::post('/updateOrder', [ArticlesController::class, 'updateOrder'])->name('updateOrder');
+});
+```
 
 ### With Custom Routes
 ```php
