@@ -14,7 +14,24 @@ This repo contains my Laravel-powered demos, each in its own folder with its own
 - **[Laravel File Manager (FMS)](https://github.com/MeSafal/laravel_filemanager)**  
   - `fms/` – file management system (see `fms/README.md`)  
 
----
+- **[Eye-Controlled Wheelchair](https://github.com/MeSafal/eyeControlledWheelchair)**  
+  - Arduino-based robotic wheelchair prototype controlled by eye movement  
+  - Collaborative project by Gokul Subedi, Arjun Koirala, and Shusmeet Paudel  
+  - Includes proof of concept + research paper  
+
+- **[Smart AI Spectacle](https://github.com/MeSafal/smartAISpectacle)**  
+  - Wearable assistive device for the visually impaired  
+  - On-device image capture + offline AI inference  
+  - Developed by Gokul Subedi and team  
+
+- **[Reading Assistant](https://github.com/MeSafal/readingAssistant)**  
+  - 📘 Offline AI reader for Nepali books  
+  - Built for visually impaired users with OCR and audio playback  
+
+- **Nepali OCR Technology**  
+  - *Coming soon* 👀  
+  - OCR engine tailored for printed Nepali script
+
 
 ## 📌 How to Navigate
 
