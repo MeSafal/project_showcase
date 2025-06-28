@@ -9,7 +9,7 @@ This repo contains my Laravel-powered demos, each in its own folder with its own
 
 - **[Laravel CMS Showcase](https://github.com/MeSafal/laravel_cms)**  
   - `cms/` – core CMS (see `cms/README.md`)  
-  - `cms_routes/` – routing module (see `cms_routes/README.md`)  
+  - `cms/cms_routes/` – routing module (see `cms_routes/README.md`)  
 
 - **[Laravel File Manager (FMS)](https://github.com/MeSafal/laravel_filemanager)**  
   - `fms/` – file management system (see `fms/README.md`)  
