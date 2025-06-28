@@ -60,6 +60,10 @@ Questions or collabs? Reach out:
 ## 🤝 License & Contribution
 
 © All rights reserved by [Gokul Subedi](https://github.com/mesafal). This project is closed‑source.  
-Got ideas or feedback? I’m open to meaningful discussions—drop a line on GitHub or email me.
+
+Most projects showcased here are demos with README files; some include code and runnable files.  
+For full details, visit each project’s repo.  
+
+Want access to any project—even closed source? Reach out to me directly.
 
 <sub><p align="center">Prepared and maintained by <a href="https://github.com/MeSafal"><strong>Gokul Subedi</strong></a></p></sub>
