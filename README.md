@@ -28,6 +28,10 @@ This repo contains my Laravel-powered demos, each in its own folder with its own
   - 📘 Offline AI reader for Nepali books  
   - Built for visually impaired users with OCR and audio playback  
 
+- **[Laravel RAG Chatbot](https://github.com/MeSafal/laravel_with_rag)**  
+  - 💬 Real-time RAG Chatbot with Laravel Reverb & WebSockets  
+  - 🚀 Modular design with smart fallback to polling for reliability
+
 - **Nepali OCR Technology**  
   - *Coming soon* 👀  
   - OCR engine tailored for printed Nepali script
