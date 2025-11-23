@@ -33,8 +33,8 @@ This repo contains my Laravel-powered demos, each in its own folder with its own
   - 🚀 Modular design with smart fallback to polling for reliability
 
 - **[Study Buddy — Flutter Exam Prep (Showcase)](https://github.com/MeSafal/study_buddy_public)**
-* 📚 Flutter MCQ study app with category-wise practice, exam modes, and clean UI
-* 🔒 Public showcase: UI previews & architecture highlights only — source code not included
+- 📚 Flutter MCQ study app with category-wise practice, exam modes, and clean UI
+- 🔒 Public showcase: UI previews & architecture highlights only — source code not included
 
 
 - **Nepali OCR Technology**  
