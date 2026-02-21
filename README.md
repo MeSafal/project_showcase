@@ -15,7 +15,7 @@ This repo contains my Laravel-powered demos, each in its own folder with its own
   - `fms/` – file management system (see `fms/README.md`)
  
 - **[Laravel X Flutter Project Planning System](https://github.com/MeSafal/project_planner_public)**  
-  - `fms/` – Project Planning system
+  – Project Planning system
 
 - **[Eye-Controlled Wheelchair](https://github.com/MeSafal/eyeControlledWheelchair)**  
   - Arduino-based robotic wheelchair prototype controlled by eye movement  
