@@ -12,7 +12,10 @@ This repo contains my Laravel-powered demos, each in its own folder with its own
   - `cms_routes/` – routing module (see `cms_routes/README.md`)  
 
 - **[Laravel File Manager (FMS)](https://github.com/MeSafal/laravel_filemanager)**  
-  - `fms/` – file management system (see `fms/README.md`)  
+  - `fms/` – file management system (see `fms/README.md`)
+ 
+- **[Laravel X Flutter Project Planning System](https://github.com/MeSafal/project_planner_public)**  
+  - `fms/` – Project Planning system
 
 - **[Eye-Controlled Wheelchair](https://github.com/MeSafal/eyeControlledWheelchair)**  
   - Arduino-based robotic wheelchair prototype controlled by eye movement  
