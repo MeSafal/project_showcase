@@ -12,7 +12,10 @@ This repo contains my Laravel-powered demos, each in its own folder with its own
   - `cms_routes/` – routing module (see `cms_routes/README.md`)  
 
 - **[Laravel File Manager (FMS)](https://github.com/MeSafal/laravel_filemanager)**  
-  - `fms/` – file management system (see `fms/README.md`)  
+  - `fms/` – file management system (see `fms/README.md`)
+ 
+- **[Laravel X Flutter Project Planning System](https://github.com/MeSafal/project_planner_public)**  
+  – Project Planning system
 
 - **[Laravel X Flutter Project Planning System](https://github.com/MeSafal/project_planner_public)**  
   - `fms/` – Project Planning system
@@ -35,9 +38,9 @@ This repo contains my Laravel-powered demos, each in its own folder with its own
   - 💬 Real-time RAG Chatbot with Laravel Reverb & WebSockets  
   - 🚀 Modular design with smart fallback to polling for reliability
 
-- ***[Study Buddy — Flutter Exam Prep (Showcase)](https://github.com/MeSafal/study_buddy_public)**
-* 📚 Flutter MCQ study app with category-wise practice, exam modes, and clean UI
-* 🔒 Public showcase: UI previews & architecture highlights only — source code not included
+- **[Study Buddy — Flutter Exam Prep (Showcase)](https://github.com/MeSafal/study_buddy_public)**
+  - 📚 Flutter MCQ study app with category-wise practice, exam modes, and clean UI
+  - 🔒 Public showcase: UI previews & architecture highlights only — source code not included
 
 
 - **Nepali OCR Technology**  
